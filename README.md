@@ -1,5 +1,7 @@
 # Laravel Pretty Pagination
 
+Forked from: https://github.com/ctsoft-de/laravel-pretty-pagination
+
 This package generates pretty pagination URLs:
 
 ```
